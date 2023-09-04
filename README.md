@@ -24,7 +24,7 @@
 
 ## Hi 👋 
 <h4>At the very early of my Career, I have learned and gained a wide range of knowledge from Backend Development. </h4>
-- 💬 Ask me about **JavaScript, MongoDB, Express, Redis, Git, Github**
+- 💬 Ask me about: <b>JavaScript, MongoDB, Express, Redis, Git, Github</b>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/ITL2k3](https://github.com/ITL2k3)
