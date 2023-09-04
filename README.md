@@ -26,9 +26,7 @@
 <h4>At the very early of my Career, I have learned and gained a wide range of knowledge from Backend Development. Hope that we can see each other.... my future company </h4>
 - 💬 Ask me about: <b>JavaScript, MongoDB, Express, Redis, Git, Github</b>
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/ITL2k3](https://github.com/ITL2k3)
-
+- 👨‍💻 All of my projects are available at [https://github.com/ITL2k3](https://github.com/ITL2k3) </b>
 - 📫 Reach me on:<br>
     Leetcode:  **https://leetcode.com/dung_sc_tn123/** <br>
     Facebook:  **https://www.facebook.com/profile.php?id=100025431854452**
