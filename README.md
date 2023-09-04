@@ -23,7 +23,7 @@
 </p>
 
 ## Hi 👋 
-<h4>At the very early of my Career, I have learned and gained a wide range of knowledge from Backend Development. </h4>
+<h4>At the very early of my Career, I have learned and gained a wide range of knowledge from Backend Development. Hope that we can find each other.... my future company </h4>
 - 💬 Ask me about: <b>JavaScript, MongoDB, Express, Redis, Git, Github</b>
 
 
