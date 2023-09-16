@@ -31,7 +31,7 @@
     Leetcode:  **https://leetcode.com/dung_sc_tn123/** <br>
     Facebook:  **https://www.facebook.com/profile.php?id=100025431854452**
   <br>
-- 📄 Download my CV: **link**
+- 📄 Download my CV: **[link](https://drive.google.com/file/d/1yNKYgFGrpju7Vx4BNPKHGZhyiEfPD1ZZ/view?usp=drive_link)**
     
 
 
