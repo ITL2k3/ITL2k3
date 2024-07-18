@@ -37,8 +37,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itl2k3&show_icons=true&locale=en&layout=compact" alt="itl2k3" /></p>
-<a href="https://visitcount.itsvg.in">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itl2k3&show_icons=true&locale=en&layout=compact" alt="itl2k3" /></p> <br>
+<div> 
+    <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ITL2k3&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
+</div>
 
